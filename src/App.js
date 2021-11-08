@@ -1,6 +1,7 @@
 import React from "react";
-import { Title } from "./components/Title";
 
-export const App = ({ name = "World" }) => {
-  return <Title>Hello {name}!</Title>;
+export const App = ({ type }) => {
+  return (
+    <div style={{backgroundColor: "red", height: "200px", width:"100%"}} className={type}></div>
+  );
 };
