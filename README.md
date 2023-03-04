@@ -1,5 +1,5 @@
-# Remote Component Starter Kit
+# Remote Component starter Kit
 
->Repository wurde geforkt von https://github.com/Paciolan/remote-component-starter
+> Repository was forked by https://github.com/Paciolan/remote-component-starter
 
-Webpack Repository zum Erstellen von Remote Komponeten für MDX basiertes [E-Learning Tool](https://github.com/doldsimo/mdx-import-zipfile).
+Webpack repository for creating remote components for MDX based [e-learning tool](https://github.com/doldsimo/mdx-import-zipfile).
